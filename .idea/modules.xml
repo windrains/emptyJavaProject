@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/modual02/modual02.iml" filepath="$PROJECT_DIR$/modual02/modual02.iml" />
       <module fileurl="file://$PROJECT_DIR$/modual03/modual03.iml" filepath="$PROJECT_DIR$/modual03/modual03.iml" />
       <module fileurl="file://$PROJECT_DIR$/modual04javaWeb/modual04javaWeb.iml" filepath="$PROJECT_DIR$/modual04javaWeb/modual04javaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modual05-springboot-war/modual05-springboot-war.iml" filepath="$PROJECT_DIR$/modual05-springboot-war/modual05-springboot-war.iml" />
     </modules>
   </component>
 </project>

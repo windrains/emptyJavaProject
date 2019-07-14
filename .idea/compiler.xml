@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="modual02" />
         <module name="modual03" />
+        <module name="modual05-springboot-war" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="modual02" target="1.7" />
       <module name="modual03" target="1.8" />
+      <module name="modual05-springboot-war" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/modual02" />
+    <file type="web" url="file://$PROJECT_DIR$/modual05-springboot-war" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/modual02/pom.xml" />
         <option value="$PROJECT_DIR$/modual03/pom.xml" />
+        <option value="$PROJECT_DIR$/modual05-springboot-war/pom.xml" />
       </list>
     </option>
   </component>
