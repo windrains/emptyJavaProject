@@ -11,6 +11,6 @@
     <title>javaWeb</title>
   </head>
   <body>
-    <h3>Hello</h3>
+    <h3>Hello GitHub!</h3>
   </body>
 </html>
